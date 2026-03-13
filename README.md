@@ -1,77 +1,30 @@
-# 🚀 React Counter App
+# Counter App
 
-A simple and clean **Counter Application** built using **React + Tailwind CSS**.
-This project demonstrates the use of **React Hooks (useState)** and basic UI styling with **Tailwind CSS**.
+This is a simple counter application built with React and Tailwind CSS.
 
----
+The app allows users to increase, decrease and reset the counter value.
+This project was created to practice React basics like useState and component structure.
 
-## 📸 Project Preview
+## Features
 
-Add your project screenshot here.
+* Increase counter
+* Decrease counter
+* Reset counter
+* Simple UI using Tailwind CSS
 
-Example:
-
-![Counter App Screenshot](screenshot.png)
-
----
-
-## ✨ Features
-
-* ➕ Increase Counter
-* ➖ Decrease Counter
-* 🔄 Reset Counter
-* 🎨 Clean UI with Tailwind CSS
-* ⚡ Fast development using Vite
-
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 * React
 * Tailwind CSS
 * Vite
 * JavaScript
-* HTML
 
----
-
-## 📂 Project Structure
-
-counter-app
-│
-├── public
-├── src
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-│
-├── package.json
-└── vite.config.js
-
----
-
-## ▶️ How to Run the Project
+## How to Run
 
 1. Clone the repository
+2. Install dependencies using `npm install`
+3. Run the project using `npm run dev`
 
-git clone https://github.com/yadavarun18/counter-app.git
+## Author
 
-2. Go to project folder
-
-cd counter-app
-
-3. Install dependencies
-
-npm install
-
-4. Start the development server
-
-npm run dev
-
----
-
-## 👨‍💻 Author
-
-**Arun Yadav**
-
-GitHub: https://github.com/yadavarun18
+Arun Yadav
